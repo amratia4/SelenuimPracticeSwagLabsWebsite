@@ -1,0 +1,1 @@
+{"uuid":"0dcbcfef-d7b0-43fc-9aae-2ea0fc428250","name":"contactlistapptests.RegisterTests","children":["61664e5d-2fe0-4edc-ab2d-5094020f765e"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700598310426,"stop":1700598316279}],"afters":[],"start":1700598310413,"stop":1700598318092}

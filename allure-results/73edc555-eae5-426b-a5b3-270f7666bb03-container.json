@@ -1,0 +1,1 @@
+{"uuid":"73edc555-eae5-426b-a5b3-270f7666bb03","name":"logintests.E2EScenario","children":["6aacbeac-2c9d-494f-a425-0492c47c844b"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1700430272311,"stop":1700430278607}],"afters":[],"start":1700430272300,"stop":1700430287913}
